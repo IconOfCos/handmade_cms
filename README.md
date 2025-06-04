@@ -1,0 +1,1 @@
+pushするとmarkdownの内容を静的コンテンツにビルドしてgithub pagesに公開するやつ
