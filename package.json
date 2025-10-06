@@ -17,7 +17,7 @@
   "devDependencies": {
     "@types/ejs": "^3.1.5",
     "@types/node": "^22.15.29",
-    "typescript": "^5.3.0"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
     "commander": "^14.0.0",
